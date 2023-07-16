@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.moon.mixin.mixins",
+  "refmap": "mixins.moon.refmap.json",
+  "mixins": [
+  	"MixinBlockLiquid",
+    "MixinEntity",
+    "MixinEntityPlayerSP",
+    "MixinEntityRenderer",
+    "MixinGuiScreen",
+    "MixinLayerBipedArmor",
+    "MixinLocaleFont",
+    "MixinMinecraft",
+    "MixinModelPlayer",
+    "MixinMovementInputFromOptions",
+    "MixinNetworkManager",
+    "MixinPlayerControllerMP",
+    "MixinWorld"
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "moon",
+    "name": "MoonGod",
+    "description": "Crystal PvP Client",
+    "version": "404",
+    "mcversion": "1.12.2",
+    "logoFile": "MoonGod.png",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "404"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
